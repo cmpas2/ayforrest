@@ -1,5 +1,5 @@
 {
-    "name": "omniphx/forrest",
+    "name": "cmpas2/ayforrest",
     "description": "Salesforce / Force.com REST API Client for Laravel 5",
     "license":"MIT",
     "keywords":["salesforce", "laravel", "rest", "force.com", "force"],
